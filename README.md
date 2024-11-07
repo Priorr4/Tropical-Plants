@@ -1,7 +1,7 @@
 # Tropical-Plants
   Project descrption:
 # Team members
-  Joritz Letarva-Ereso Aranguren
+  Joritz Legarda-Ereño Aranguren
   
   June Lizaso Aguirre
   
