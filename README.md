@@ -1,4 +1,5 @@
 # Tropical-Plants
+  Project descrption:
 # Team members
   Joritz Letarva-Ereso Aranguren
   
