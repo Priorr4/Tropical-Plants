@@ -19,4 +19,4 @@
 
 [Video usando joystic en python](https://www.youtube.com/watch?v=j8-2drJMrf4)
 
-[proiektuen aurreapena](https://wokwi.com/projects/415153720292742145)
+[proiektuen aurreapena](https://wokwi.com/projects/415155736853765121)
