@@ -22,3 +22,5 @@
 [proiektuen aurreapena](https://wokwi.com/projects/415155736853765121)
 
 [ioritz_analog_irakurri](https://randomnerdtutorials.com/esp32-esp8266-analog-readings-micropython/)
+
+[rgb funtzionamendua](https://esp32io.com/tutorials/esp32-ws2812b-led-strip)
