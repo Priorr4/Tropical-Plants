@@ -4,7 +4,7 @@
   [Display](https://wokwi.com/projects/413911746413303809)
 
   [Matlab](https://wokwi.com/projects/415642410000224257)
-# Team members
+## Team members
   Joritz Legarda-Ereño Aranguren
   
   June Lizaso Aguirre
@@ -12,20 +12,27 @@
   Laura Prior Urbizu
   
   Joseba Sagarzazu Oteiza
-# Hardware descrption
-
+## Hardware descrption
 This are all the hardaware components used in this project:
-- RGB ligts
 - Joystick
+- RGB ligts
 - MicroPython OLED display
 - BreadBoard
 - ESP32 WROOM 32D
 - Light dependance resistance (LDR)
 - Relay
 
-# Software description
-# Instructions and photos
-# References and tools
+We have made a research on each hardware component that we have implemented in this project.
+
+### Joystick:
+![Joystick](https://github.com/user-attachments/assets/9d34fc7c-b9b6-4bf5-b4d8-5d4de465c96b)
+
+
+
+## Software description
+## Instructions and photos
+
+## References and tools
 
 [proiektuen aurreapena](https://wokwi.com/projects/415155736853765121)
 
