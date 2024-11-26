@@ -25,5 +25,5 @@
 
 [rgb funtzionamendua](https://esp32io.com/tutorials/esp32-ws2812b-led-strip)
 
-[Configuration RelayMode - Python](https://github.com/Elecrow-RD/CrowPi/blob/master/Examples/relay.py)
+[Configuration RelayMode - Python](https://www.upesy.com/blogs/tutorials/esp32-relay-module-with-micropython-code?srsltid=AfmBOop7Rz4NttnxwDSwEVrj7ANNDrtH8H_BS9dAkLuB1RZGA2uLwb5F)
 
