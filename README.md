@@ -13,6 +13,16 @@
   
   Joseba Sagarzazu Oteiza
 # Hardware descrption
+
+This are all the hardaware components used in this project:
+- RGB ligts
+- Joystick
+ MicroPython OLED display
+ BreadBoard
+ ESP32 WROOM 32D
+ Light dependance resistance (LDR)
+ Relay
+
 # Software description
 # Instructions and photos
 # References and tools
