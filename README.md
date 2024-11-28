@@ -140,6 +140,8 @@ These are all the references that were used in this project:
 
 [ThingSpeak](https://thingspeak.mathworks.com/)
 
+[EasyEDA](https://easyeda.com/)
+
 **REFERENCES:**
 
 [Analog reading](https://randomnerdtutorials.com/esp32-esp8266-analog-readings-micropython/)
