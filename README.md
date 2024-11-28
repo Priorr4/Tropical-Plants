@@ -122,10 +122,15 @@ The moisture sensor consist on 3 pins. `VCC` and `GND` are connected to the corr
 
 ![Moisture Sensor](https://ielectrony.com/wp-content/uploads/2023/03/bfcapacitive.jpeg)
 
-### Circuir Diagram
+### Circuit Diagram:
 This is the diagram of the whole circuit:
 
 ![Diagram](CircuitDiagram.png)
+
+This is a simulation of the physical connection:
+
+
+
 ## Software description:
 
 
