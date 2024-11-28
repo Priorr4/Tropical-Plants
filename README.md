@@ -121,13 +121,19 @@ The moisture sensor consist on 3 pins. `VCC` and `GND` are connected to the corr
 ## References and tools:
 These are all the references that were used in this project:
 
-[proiektuen aurreapena](https://wokwi.com/projects/415155736853765121)
+**TOOLS:**
 
-[ioritz_analog_irakurri](https://randomnerdtutorials.com/esp32-esp8266-analog-readings-micropython/)
+[Wokwi simulator](https://wokwi.com/)
 
-[rgb funtzionamendua](https://esp32io.com/tutorials/esp32-ws2812b-led-strip)
+**REFERENCES:**
+
+[Analog reading](https://randomnerdtutorials.com/esp32-esp8266-analog-readings-micropython/)
+
+[RGB light](https://esp32io.com/tutorials/esp32-ws2812b-led-strip)
 
 [Configuration RelayMode - Python](https://www.upesy.com/blogs/tutorials/esp32-relay-module-with-micropython-code?srsltid=AfmBOop7Rz4NttnxwDSwEVrj7ANNDrtH8H_BS9dAkLuB1RZGA2uLwb5F)
+
+[Moisture sensor](https://srituhobby.com/capacitive-soil-moisture-sensor-v1-2-arduino-code/?srsltid=AfmBOooFLAZaICT7MhLFokFGB1S75tuObefbTCgONZ3T9ZIMaAz51xlr)
 
 
 
