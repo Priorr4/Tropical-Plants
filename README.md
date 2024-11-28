@@ -62,7 +62,7 @@ It uses OLED (Organic Light Emitting Diode) technology paired with an `I2C` (Int
 
 It consist on 4 pins. `VCC` and `GND` are connected to the corresponding pins in the breadboard, in the same way as SDA and SCL pins, `PIN21` and `PIN22` respectively. 
 
-![Display](https://devreyakan.com/wp-content/uploads/2022/07/image-9.png.webp)
+![Display](https://www.smart-prototyping.com/image/cache/data/2020/11/102104%201.3%20inch%20OLED%20Display/1-750x750.JPG)
 
 ### Breadboard:
 A breadboard is a flat, perforated board that allows components and wires to be **easily inserted and connected** for building and testing electronic circuits.
@@ -72,6 +72,14 @@ A breadboard has **rows and columns of holes**, with the holes in the same row c
 ![BreadBoard](https://electropeak.com/pub/media/catalog/product/cache/bc5042bf121eb5dcbd431cdc7ec1fd5b/c/a/cab-01-002-1-bread-board-8-5-8-5cm.jpg)
 
 ### ESP32 WROOM 32D:
+
+The ESP32 is a microcontroller developed by Espressif Systems that integrates Wi-Fi and Bluetooth connectivity. It is designed for use in a wide range of Internet of Things (IoT) applications due to its powerful processing capabilities, low power consumption, and versatile features.
+
+The ESP32 microcontroller board offers multiple GPIO (General Purpose Input/Output) pins that serve various functions. These pins can be configured for tasks such as digital input/output, reading analog signals, supporting communication protocols like UART, SPI, and I2C, generating PWM (Pulse Width Modulation) signals, and more. These versatile pins allow the ESP32 to interact with sensors, actuators, displays, and other external components, making it suitable for a wide range of applications.
+
+![PINS](https://github.com/user-attachments/assets/10f83e53-c35f-4375-8206-3ab51c241c31)
+
+All these GPIO pins can be observed in the picture above.
 
 ![ESP32](https://ce8dc832c.cloudimg.io/v7/_cdn_/BE/B6/90/00/0/617451_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=ecbc082e1968d44612ae5635e6defb9c957a3da9)
 
@@ -92,6 +100,17 @@ A relay works by using an electromagnet to control a set of contacts. When a sma
 The relay consist on 3 pins. `VCC` and `GND` are connected to the corresponding pins in the breadboard. The other pin is a digital PIN where is connected to `PIN5` (D8).
 
 ![Relay](https://www.robotechbd.com/wp-content/uploads/2021/04/relay-5v.jpg)
+
+### Soil moisture sensor:
+**Used model:** `Moisture sensor v1.2`
+
+A soil moisture sensor is a device used to measure the amount of water present in the soil. It helps monitor soil conditions, providing real-time data on moisture levels.
+
+The Soil Moisture V1.2 sensor is a commonly used, low-cost, analog soil moisture sensor that works by measuring the soil's moisture content based on its electrical resistance. It uses two metal probes to measure soil moisture. When the soil is wet, it conducts electricity better due to dissolved salts in the water, resulting in lower resistance. When the soil is dry, the resistance increases because there's less water to conduct electricity.
+
+The moisture sensor consist on 3 pins. `VCC` and `GND` are connected to the corresponding pins in the breadboard. The other pin is a digital PIN where is connected to `PIN39` (A1).
+
+![Moisture Sensor](https://ielectrony.com/wp-content/uploads/2023/03/bfcapacitive.jpeg)
 
 
 ## Software description:
