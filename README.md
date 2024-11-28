@@ -125,9 +125,15 @@ These are all the references that were used in this project:
 
 [Wokwi simulator](https://wokwi.com/)
 
+[ThingSpeak](https://thingspeak.mathworks.com/)
+
 **REFERENCES:**
 
 [Analog reading](https://randomnerdtutorials.com/esp32-esp8266-analog-readings-micropython/)
+
+[Joystick](https://newbiely.com/tutorials/raspberry-pi/raspberry-pi-joystick)
+
+[LDR](https://www.prateeks.in/2022/09/esp32-interfacing-with-ldr-sensor.html)
 
 [RGB light](https://esp32io.com/tutorials/esp32-ws2812b-led-strip)
 
