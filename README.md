@@ -134,6 +134,26 @@ This is a simulation of the physical connection:
 
 ## Software description:
 
+### Used MODULES:
+
+- **Time:**
+
+The time module in Python provides various time-related functions to work with the current time, pause execution, and measure time intervals. It is built-in and doesn't require any installation. Most used function in time module is `time.sleep`, with this function is possible to adjust the time we need the program to be waiting.
+
+
+- **Machine:**
+   - Timer
+   - ADC
+   - I2C
+   - Pin
+     
+The machine module in Python is primarily used for interacting with hardware on microcontrollers and other embedded systems. It provides functions to access and control low-level hardware features, such as GPIO pins, timers, and sensors.
+   
+    
+- **sh1106**
+   - SH1106_I2C
+   
+
 
 ## Instructions and photos:
 
