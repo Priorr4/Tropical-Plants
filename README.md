@@ -1,5 +1,10 @@
 # Tropical-Plants
-  Project descrption:
+  **Project descrption:** The goal of the project would be to create a system that measures key environmental parameters (such as temperature, humidity, light levels, soil moisture) for tropical plants. This system should also allow the user to control or adjust environmental conditions and visualize the data.
+
+![TropPlants1](https://github.com/user-attachments/assets/b7dbc24c-0575-40b8-b041-b233e993294a)  ![TropPlats2](https://github.com/user-attachments/assets/919ac136-e0da-4044-9fd4-011bd04612db)
+
+
+
   
   [Display](https://wokwi.com/projects/413911746413303809)
 
@@ -112,7 +117,7 @@ The moisture sensor consist on 3 pins. `VCC` and `GND` are connected to the corr
 
 ![Moisture Sensor](https://ielectrony.com/wp-content/uploads/2023/03/bfcapacitive.jpeg)
 
-
+# **FALTA EL CIRCUIT DIAGRAAAAAAAAAM en hardware**
 ## Software description:
 
 
