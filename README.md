@@ -119,6 +119,7 @@ The moisture sensor consist on 3 pins. `VCC` and `GND` are connected to the corr
 ## Instructions and photos:
 
 ## References and tools:
+These are all the references that were used in this project:
 
 [proiektuen aurreapena](https://wokwi.com/projects/415155736853765121)
 
