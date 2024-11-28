@@ -129,6 +129,7 @@ This is the diagram of the whole circuit:
 
 This is a simulation of the physical connection:
 
+![Circuit](PhysicalCircuit.png)
 
 
 ## Software description:
