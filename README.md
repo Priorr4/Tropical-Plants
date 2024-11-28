@@ -30,6 +30,7 @@ This are all the hardaware components used in this project:
 - ESP32 WROOM 32D
 - Light dependance resistance (LDR)
 - Relay
+- Soil Moisture Sensor
 
 We have made a research on each hardware component that we have implemented in this project.
 
