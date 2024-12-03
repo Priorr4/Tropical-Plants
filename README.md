@@ -13,6 +13,8 @@
   [Display](https://wokwi.com/projects/413911746413303809)
 
   [Matlab](https://wokwi.com/projects/415642410000224257)
+
+  [video matlab](https://www.youtube.com/watch?v=eorHPTajPT8&ab_channel=GuillermoSampallo)
 ## Team members
   Joritz Legarda-Ereño Aranguren
   
