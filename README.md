@@ -132,18 +132,19 @@ This is a simulation of the physical connection:
 
 ## Software description:
 ### Flowcharts:
+Flowchart of the main functioning of the project.
 ![main](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_main.jpg)
 
-Flowchart of the function that displays the menu to choose the appropiate clima for the plant
+Flowchart of the function that displays the menu to choose the appropiate clima for the plant.
 ![menuclima](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_menu_climas.jpg)
 
-Flowchart to choose the parameters to change
+Flowchart to choose the parameters to change.
 ![changedecision](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_change_decision.jpg)
 
-FLowchart corresponding to the function that allows the user to modify the humidity
+FLowchart corresponding to the function that allows the user to modify the humidity.
 ![changehumidity](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_change_humidity.jpg)
 
-Flowchart corresponding to the function that allows the user to modify the light
+Flowchart corresponding to the function that allows the user to modify the light.
 ![changelight](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_change_light.jpg)
 
 ### Used MODULES:
@@ -187,7 +188,7 @@ Once a specific climate is selected, its parameters will be displayed on the OLE
 ![Selected clima](https://github.com/Priorr4/Tropical-Plants/blob/main/Selected%20clima.png)
 
 Once a climate is selected, the measured values and the selected climate parameters are displayed. The system then gradually adjusts the environmental conditions to match the desired parameters. For humidity adjustment, a relay simulates the operation of a fog dispenser. Simultaneously, an RGB light strip automatically adjusts to provide the required light intensity.
-![Comparison]([https://github.com/Priorr4/Tropical-Plants/blob/main/Comparison.png](https://github.com/Priorr4/Tropical-Plants/blob/main/comparison.jpg))
+![Comparison](https://github.com/Priorr4/Tropical-Plants/blob/main/comparison.jpg))
 
 After this adjustment phase, the user is given the option to either fine-tune the climate parameters for greater accuracy or retain the previously selected values.
 ![Change Yes No](https://github.com/Priorr4/Tropical-Plants/blob/main/Change%20Yes%20No.png)
