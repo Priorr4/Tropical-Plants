@@ -181,6 +181,7 @@ We have used the following common classes and functions:
 ## Instructions and photos:
 Initially, the readings from the DH12 sensor (temperature and humidity), Soil Moisture Sensor v1.2, and LDR (light sensor) are displayed on the OLED screen.
 ![InitialValues](https://github.com/Priorr4/Tropical-Plants/blob/main/Initial%20Values.png)
+
 Subsequently, the user is prompted to select one of three available climates suitable for tropical plants. These climates correspond to real-world values from different tropical environments: Savannah, Monsoon, and Rainforest climates. The selection is made using the joystick, following instructions displayed on the OLED screen.
 ![Clima ABC](https://github.com/Priorr4/Tropical-Plants/blob/main/Clima%20ABC.png)
 
@@ -196,6 +197,7 @@ After this adjustment phase, the user is given the option to either fine-tune th
 If the user opts to retain the selected parameters: The system assumes the settings are optinal and after the values of final parameters are displayed, the message “Plant growing!” on the OLED screen is shown so as to finalize the program.
 ![Final menu](https://github.com/Priorr4/Tropical-Plants/blob/main/Final%20menu.png)
 ![Plant growing](https://github.com/Priorr4/Tropical-Plants/blob/main/Plant%20growing.png)
+
 If the user chooses to further adjust parameters: A new menu is displayed. Using the joystick and following on-screen instructions, the user can modify humidity, light intensity, or both.
 ![Change parameters menu](https://github.com/Priorr4/Tropical-Plants/blob/main/Menu%20change%20parameters.png)
 
@@ -205,6 +207,7 @@ Vertical joystick movements adjust light intensity, while horizontal movements a
 
 Once the user finalizes the adjustments, values of final parameters are displayed on the OLED.
 ![Final menu](https://github.com/Priorr4/Tropical-Plants/blob/main/Final%20menu.png)
+
 The system confirms the settings by displaying “Plant growing!” on the OLED screen, and the program concludes.
 ![Plant growing](https://github.com/Priorr4/Tropical-Plants/blob/main/Plant%20growing.png)
 
