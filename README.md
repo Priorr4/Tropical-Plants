@@ -189,6 +189,8 @@ After this adjustment phase, the user is given the option to either fine-tune th
 If the user opts to retain the selected parameters: The system assumes the settings are optimal and displays the message “Plant growing!” on the OLED screen.
 If the user chooses to further adjust parameters: A new menu is displayed. Using the joystick and following on-screen instructions, the user can modify humidity, light intensity, or both. Vertical joystick movements adjust light intensity, while horizontal movements adjust humidity. The relay will activate during any humidity adjustment.
 Once the user finalizes the adjustments, the system confirms the settings by displaying “Plant growing!” on the OLED screen, and the program concludes.
+
+[![Video Title](https://img.youtube.com/vi/-n66zRk1f4s/0.jpg)](https://www.youtube.com/watch?v=-n66zRk1f4s)
 ## References and tools:
 These are all the references that were used in this project:
 
