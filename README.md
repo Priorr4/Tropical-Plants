@@ -135,6 +135,7 @@ This is a simulation of the physical connection:
 
 
 ## Software description:
+### Flowcharts:
 
 ### Used MODULES:
 
@@ -144,17 +145,18 @@ The time module in Python provides various time-related functions to work with t
 
 
 - **Machine:**
-   - Timer
-   - ADC
-   - I2C
-   - Pin
+   - **Timer:** Timer class allows you to set up hardware timers to run functions after specified delays or at regular intervals.
+   - **ADC:** The ADC (Analog-to-Digital Converter) in the machine module of MicroPython allows you to read analog voltages from a pin and convert them into a digital value. It provides a method read() to obtain the digital representation of the input voltage, typically in the range of 0 to 4095.
+   - **I2C:** The I2C class in the machine module allows communication between a microcontroller and I2C devices using the I2C protocol.
+   - **Pin:** The Pin class in the machine module represents a GPIO pin on the microcontroller. It allows you to configure and control the state of pins.
      
 The machine module in Python is primarily used for interacting with hardware on microcontrollers and other embedded systems. It provides functions to access and control low-level hardware features, such as GPIO pins, timers, and sensors.
    
     
 - **sh1106**
-   - SH1106_I2C
-   
+   - **SH1106_I2C:** A driver class in MicroPython used to interface with SH1106-based OLED displays via the I2C protocol.
+     
+   The SH1106 is a monochrome OLED display controller chip, often used in small OLED screens.
 
 
 ## Instructions and photos:
