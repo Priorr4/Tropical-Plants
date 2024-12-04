@@ -92,7 +92,7 @@ All these GPIO pins can be observed in the picture above.
 ![ESP32](https://ce8dc832c.cloudimg.io/v7/_cdn_/BE/B6/90/00/0/617451_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=ecbc082e1968d44612ae5635e6defb9c957a3da9)
 
 ### Light dependance resistance (LDR):
-An LDR (Light Dependent Resistor) is a type of resistor whose resistance decreases as the light intensity falling on it increases. In darkness, the resistance of an LDR is high, while in bright light, its resistance is low. This property allows LDRs to be used in light-sensitive applications.
+An LDR (Light Dependent Resistor) is a type of resistor whose resistance decreases as the light intensity increases. In darkness, the resistance of an LDR is high, while in bright light, its resistance is low. This property allows LDRs to be used in light-sensitive applications.
 
 LDR has two terminals one of them is connected to `GND` with a 10kΩ resistor and in the same row of the breadboard this terminal is connected to the analog pin `PIN15` (A4), whereas the other terminal is connected to `VCC`.
 
