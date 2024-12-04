@@ -198,8 +198,11 @@ If the user chooses to further adjust parameters: A new menu is displayed. Using
 
 Vertical joystick movements adjust light intensity, while horizontal movements adjust humidity. The relay will activate during any humidity adjustment.
 ![Humidity](https://github.com/Priorr4/Tropical-Plants/blob/main/Humidity.png)
-![Light]()
-Once the user finalizes the adjustments, the system confirms the settings by displaying “Plant growing!” on the OLED screen, and the program concludes.
+![Light](https://github.com/Priorr4/Tropical-Plants/blob/main/Light.png)
+
+Once the user finalizes the adjustments, parameters of final values are displayed on the OLED.
+
+The system confirms the settings by displaying “Plant growing!” on the OLED screen, and the program concludes.
 
 [![Video Title](https://img.youtube.com/vi/-n66zRk1f4s/0.jpg)](https://www.youtube.com/watch?v=-n66zRk1f4s)
 ## References and tools:
