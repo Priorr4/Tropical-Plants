@@ -179,8 +179,9 @@ We have used the following common classes and functions:
 
 ## Instructions and photos:
 Initially, the readings from the DH12 sensor (temperature and humidity), Soil Moisture Sensor v1.2, and LDR (light sensor) are displayed on the OLED screen.
-
+![InitialValues](https://github.com/Priorr4/Tropical-Plants/blob/main/Initial%20Values.png)
 Subsequently, the user is prompted to select one of three available climates suitable for tropical plants. These climates correspond to real-world values from different tropical environments: Savannah, Monsoon, and Rainforest climates. The selection is made using the joystick, following instructions displayed on the OLED screen.
+![Clima ABC]()
 
 Once a climate is selected, the measured values and the selected climate parameters are displayed. The system then gradually adjusts the environmental conditions to match the desired parameters. For humidity adjustment, a relay simulates the operation of a fog dispenser. Simultaneously, an RGB light strip automatically adjusts to provide the required light intensity.
 
