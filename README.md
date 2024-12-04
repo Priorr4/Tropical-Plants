@@ -135,17 +135,27 @@ This is a simulation of the physical connection:
 Flowchart of the main functioning of the project.
 ![main](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_main.jpg)
 
+[`main - Source file`](https://github.com/Priorr4/Tropical-Plants/blob/main/Source%20files/main.py)
+
 Flowchart of the function that displays the menu to choose the appropiate clima for the plant.
 ![menuclima](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_menu_climas.jpg)
+
+[`menu_clima - Source file`](https://github.com/Priorr4/Tropical-Plants/blob/main/Source%20files/menu_clima.py)
 
 Flowchart to choose the parameters to change.
 ![changedecision](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_change_decision.jpg)
 
+[`change_decision - Source file`](https://github.com/Priorr4/Tropical-Plants/blob/main/Source%20files/change_decision.py)
+
 FLowchart corresponding to the function that allows the user to modify the humidity.
 ![changehumidity](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_change_humidity.jpg)
 
+[`change_humidity - Source file`](https://github.com/Priorr4/Tropical-Plants/blob/main/Source%20files/change_humidity.py)
+
 Flowchart corresponding to the function that allows the user to modify the light.
 ![changelight](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_change_light.jpg)
+
+[`change_light - Source file`](https://github.com/Priorr4/Tropical-Plants/blob/main/Source%20files/change_light.py)
 
 ### Used MODULES:
 
