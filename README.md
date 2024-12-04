@@ -211,6 +211,8 @@ Once the user finalizes the adjustments, values of final parameters are displaye
 The system confirms the settings by displaying “Plant growing!” on the OLED screen, and the program concludes.
 ![Plant growing](https://github.com/Priorr4/Tropical-Plants/blob/main/Plant%20growing.png)
 
+Video of the project:
+
 [![Video Title](https://img.youtube.com/vi/-n66zRk1f4s/0.jpg)](https://www.youtube.com/watch?v=-n66zRk1f4s)
 ## References and tools:
 These are all the references that were used in this project:
