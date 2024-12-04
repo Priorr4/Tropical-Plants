@@ -144,6 +144,9 @@ Flowchart of the function that displays the menu to choose the appropiate clima 
 Flowchart to choose the parameters to change
 ![changedecision](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_change_decision.jpg)
 
+FLowchart corresponding to the function that allows the user to modify the humidity
+![changehumidity](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_change_humidity.jpg)
+
 ### Used MODULES:
 
 - **Time:**
