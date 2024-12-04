@@ -141,6 +141,9 @@ This is a simulation of the physical connection:
 Flowchart of the function that displays the menu to choose the appropiate clima for the plant
 ![menuclima](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_menu_climas.jpg)
 
+Flowchart to choose the parameters to change
+![changedecision](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_change_decision.jpg)
+
 ### Used MODULES:
 
 - **Time:**
