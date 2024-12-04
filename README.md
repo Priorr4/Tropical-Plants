@@ -136,7 +136,7 @@ This is a simulation of the physical connection:
 
 ## Software description:
 ### Flowcharts:
-![main](flowchart_main.png)
+![main](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_main.jpg)
 ### Used MODULES:
 
 - **Time:**
