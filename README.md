@@ -153,23 +153,32 @@ Flowchart corresponding to the function that allows the user to modify the light
 ### Used MODULES:
 
 - **Time:**
-
 The time module in Python provides various time-related functions to work with the current time, pause execution, and measure time intervals. It is built-in and doesn't require any installation. Most used function in time module is `time.sleep`, with this function is possible to adjust the time we need the program to be waiting.
 
 
 - **Machine:**
+The machine module in Python is primarily used for interacting with hardware on microcontrollers and other embedded systems. This module provides control over hardware-specific functionalities such as GPIO pins, I2C, SPI, PWM, ADC, and more.
+We have used the following common classes and functions:
    - **Timer:** Timer class allows you to set up hardware timers to run functions after specified delays or at regular intervals.
-   - **ADC:** The ADC (Analog-to-Digital Converter) in the machine module of MicroPython allows you to read analog voltages from a pin and convert them into a digital value. It provides a method read() to obtain the digital representation of the input voltage, typically in the range of 0 to 4095.
+   - **ADC:** The ADC (Analog-to-Digital Converter) in the machine module of MicroPython allows you to read analog voltages from a pin and convert them into a digital value. It provides a method      read() to obtain the digital representation of the input voltage, typically in the range of 0 to 4095.
    - **I2C:** The I2C class in the machine module allows communication between a microcontroller and I2C devices using the I2C protocol.
    - **Pin:** The Pin class in the machine module represents a GPIO pin on the microcontroller. It allows you to configure and control the state of pins.
-     
-The machine module in Python is primarily used for interacting with hardware on microcontrollers and other embedded systems. It provides functions to access and control low-level hardware features, such as GPIO pins, timers, and sensors.
-   
+   - **Math:** The math module in Python provides access to mathematical functions defined by the C standard library. It includes functions for arithmetic, trigonometry, logarithmic calculations,     and more.
+      
     
 - **sh1106**
-   - **SH1106_I2C:** A driver class in MicroPython used to interface with SH1106-based OLED displays via the I2C protocol.
-     
-   The SH1106 is a monochrome OLED display controller chip, often used in small OLED screens.
+   - **SH1106_I2C:** A driver class in MicroPython used to interface with SH1106-based OLED displays via the I2C protocol. The SH1106 is a monochrome OLED display controller chip, often used in       small OLED screens.
+  
+- **dht12**
+  - **DHT12:** The DHT12 module is a sensor used to measure temperature and humidity. It offers better accuracy and I2C communication, making it easier to interface with microcontrollers.
+    Key Features of DHT12 are the following one:
+        Temperature Range: -20°C to 60°C with ±0.5°C accuracy.
+        Humidity Range: 20% to 95% RH with ±5% accuracy.
+        Communication: Supports both I2C and 1-Wire interfaces.
+        Power Supply: Operates at 3.3V or 5V.
+        I2C Address: Default address is 0x5C.
+- **neopixel:** The neopixel module in Python is used to control NeoPixel LED strips or rings, which are RGB LEDs with an integrated controller. It is typically used to create dynamic lighting effects.
+  
 
 
 ## Instructions and photos:
