@@ -137,6 +137,10 @@ This is a simulation of the physical connection:
 ## Software description:
 ### Flowcharts:
 ![main](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_main.jpg)
+
+Flowchart of the function that displays the menu to choose the appropiate clima for the plant
+![menuclima](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_menu_climas.jpg)
+
 ### Used MODULES:
 
 - **Time:**
