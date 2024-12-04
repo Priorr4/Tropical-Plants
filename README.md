@@ -136,7 +136,7 @@ This is a simulation of the physical connection:
 
 ## Software description:
 ### Flowcharts:
-
+![main](flowchart_main.png)
 ### Used MODULES:
 
 - **Time:**
