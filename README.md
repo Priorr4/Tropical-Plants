@@ -10,11 +10,7 @@
 
 
   
-  [Display](https://wokwi.com/projects/413911746413303809)
-
-  [Matlab](https://wokwi.com/projects/415642410000224257)
-
-  [video matlab](https://www.youtube.com/watch?v=eorHPTajPT8&ab_channel=GuillermoSampallo)
+ 
 ## Team members
   Joritz Legarda-Ereño Aranguren
   
@@ -182,7 +178,17 @@ We have used the following common classes and functions:
 
 
 ## Instructions and photos:
+Initially, the readings from the DH12 sensor (temperature and humidity), Soil Moisture Sensor v1.2, and LDR (light sensor) are displayed on the OLED screen.
 
+Subsequently, the user is prompted to select one of three available climates suitable for tropical plants. These climates correspond to real-world values from different tropical environments: Savannah, Monsoon, and Rainforest climates. The selection is made using the joystick, following instructions displayed on the OLED screen.
+
+Once a climate is selected, the measured values and the selected climate parameters are displayed. The system then gradually adjusts the environmental conditions to match the desired parameters. For humidity adjustment, a relay simulates the operation of a fog dispenser. Simultaneously, an RGB light strip automatically adjusts to provide the required light intensity.
+
+After this adjustment phase, the user is given the option to either fine-tune the climate parameters for greater accuracy or retain the previously selected values.
+
+If the user opts to retain the selected parameters: The system assumes the settings are optimal and displays the message “Plant growing!” on the OLED screen.
+If the user chooses to further adjust parameters: A new menu is displayed. Using the joystick and following on-screen instructions, the user can modify humidity, light intensity, or both. Vertical joystick movements adjust light intensity, while horizontal movements adjust humidity. The relay will activate during any humidity adjustment.
+Once the user finalizes the adjustments, the system confirms the settings by displaying “Plant growing!” on the OLED screen, and the program concludes.
 ## References and tools:
 These are all the references that were used in this project:
 
