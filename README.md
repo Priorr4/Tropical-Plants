@@ -184,7 +184,7 @@ Subsequently, the user is prompted to select one of three available climates sui
 ![Clima ABC](https://github.com/Priorr4/Tropical-Plants/blob/main/Clima%20ABC.png)
 
 Once a specific climate is selected, its parameters will be displayed on the OLED display.
-
+![Selected clima](https://github.com/Priorr4/Tropical-Plants/blob/main/Selected%20clima.png)
 
 Once a climate is selected, the measured values and the selected climate parameters are displayed. The system then gradually adjusts the environmental conditions to match the desired parameters. For humidity adjustment, a relay simulates the operation of a fog dispenser. Simultaneously, an RGB light strip automatically adjusts to provide the required light intensity.
 
