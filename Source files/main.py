@@ -10,15 +10,7 @@ import change_humidity
 import change_light
 import display_initial_values
 import menu_humidity_light
-import matlab
-import urequests
-import network
-import my_wifi
 
-#Wifi configuration to connect with Thingspeak
-API_KEY = 'O4RP1YMLE48JR1PW'
-wifi = network.WLAN(network.STA_IF)
-my_wifi.connect(wifi, "iPhone de June", "june1111")
 
 temp=hum=moist=light=r=g=b=result=0
 
@@ -31,8 +23,6 @@ oled = SH1106_I2C(i2c)
 #Obtained initial values
 t2,h2,l2,m2 = display_initial_values.display_initial_values()  
 
-#Sending data to Thingspeak
-matlab.send_to_thingspeak(h2,l2) 
 
 #Choose the adecuate clima for the plant
 temp,hum,moist,light,r,g,b = menu_clima()
@@ -73,7 +63,5 @@ tim.init(period=1,
 tim.deinit()
 oled.fill_rect(0,0,128,64,0)
 
-
-my_wifi.disconnect(wifi)
 
 
