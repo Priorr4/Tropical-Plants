@@ -147,6 +147,9 @@ Flowchart to choose the parameters to change
 FLowchart corresponding to the function that allows the user to modify the humidity
 ![changehumidity](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_change_humidity.jpg)
 
+Flowchart corresponding to the function that allows the user to modify the light
+![changelight](https://github.com/Priorr4/Tropical-Plants/blob/main/flowchart_change_light.jpg)
+
 ### Used MODULES:
 
 - **Time:**
