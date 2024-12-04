@@ -219,8 +219,6 @@ These are all the references that were used in this project:
 
 [Wokwi simulator](https://wokwi.com/)
 
-[ThingSpeak](https://thingspeak.mathworks.com/)
-
 [EasyEDA](https://easyeda.com/)
 
 **REFERENCES:**
