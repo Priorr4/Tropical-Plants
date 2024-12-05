@@ -21,6 +21,7 @@
   Joseba Sagarzazu Oteiza
 ## Hardware descrption
 This are all the hardaware components used in this project:
+- DHT12 humidity/temperature sensor
 - Joystick
 - RGB lights
 - MicroPython OLED display
@@ -31,6 +32,11 @@ This are all the hardaware components used in this project:
 - Soil Moisture Sensor
 
 We have made a research on each hardware component that we have implemented in this project.
+### DHT12 humidity/temperature sensor
+
+The DHT12 is a digital humidity and temperature sensor that works by using a capacitive humidity sensor and a thermistor to measure environmental conditions. The sensor communicates with a microcontroller via a single-wire serial interface (I2C), transmitting temperature and humidity data in a predefined format.
+
+![DHT12](https://navody.dratek.cz/images/obr_clanky/105_teplomer_dht12/105_teplota_dht12.jpg)
 
 ### Joystick:
 
