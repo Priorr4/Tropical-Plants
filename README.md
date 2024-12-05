@@ -244,6 +244,8 @@ These are all the references that were used in this project:
 
 [EasyEDA](https://easyeda.com/)
 
+[ThingSpeak](https://thingspeak.mathworks.com/)
+
 **REFERENCES:**
 
 [Analog reading](https://randomnerdtutorials.com/esp32-esp8266-analog-readings-micropython/)
