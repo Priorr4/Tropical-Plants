@@ -10,20 +10,28 @@ import change_humidity
 import change_light
 import display_initial_values
 import menu_humidity_light
+import network
+import Matlab
+import my_wifi
+import urequests
 
 
 temp=hum=moist=light=r=g=b=result=0
-
+API_KEY = "O4RP1YMLE48JR1PW"
 #Init I2C communication
 i2c = I2C(0, scl=Pin(22), sda=Pin(21), freq=100_000)
-
+wifi = network.WLAN(network.STA_IF)
 #Init OLED display
 oled = SH1106_I2C(i2c)
 
 #Obtained initial values
 t2,h2,l2,m2 = display_initial_values.display_initial_values()  
 
+my_wifi.connect(wifi, "Laura Prior", "laura111")
+Matlab.send_to_thingspeak(h2,l2)
 
+
+        
 #Choose the adecuate clima for the plant
 temp,hum,moist,light,r,g,b = menu_clima()
 oled.fill_rect(0, 0, 128, 64,0)
@@ -53,7 +61,7 @@ if result ==3:
 
 #Display final menu
 final_menu.final_menu(temp,hum,moist,light)
-
+Matlab.send_to_thingspeak(hum,light)
 #Initialize timer
 tim = Timer(0)
 tim.init(period=1,
@@ -61,7 +69,6 @@ tim.init(period=1,
          callback=menu_clima)
 
 tim.deinit()
+my_wifi.disconnect(wifi)
 oled.fill_rect(0,0,128,64,0)
-
-
 
