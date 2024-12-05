@@ -246,6 +246,8 @@ These are all the references that were used in this project:
 
 [ThingSpeak](https://thingspeak.mathworks.com/)
 
+[LucidChart](https://www.lucidchart.com/pages/)
+
 **REFERENCES:**
 
 [Analog reading](https://randomnerdtutorials.com/esp32-esp8266-analog-readings-micropython/)
