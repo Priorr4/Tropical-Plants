@@ -191,6 +191,7 @@ We have used the following common classes and functions:
         Power Supply: Operates at 3.3V or 5V.
         I2C Address: Default address is 0x5C.
 - **neopixel:** The neopixel module in Python is used to control NeoPixel LED strips or rings, which are RGB LEDs with an integrated controller. It is typically used to create dynamic lighting effects.
+
   
 
 
@@ -226,6 +227,8 @@ Once the user finalizes the adjustments, values of final parameters are displaye
 
 The system confirms the settings by displaying “Plant growing!” on the OLED screen, and the program concludes.
 ![Plant growing](https://github.com/Priorr4/Tropical-Plants/blob/main/Plant%20growing.png)
+
+Finally, the temperature and humidity values that were measured throughout the process are plotted on a graph.
 
 Video of the project:
 
