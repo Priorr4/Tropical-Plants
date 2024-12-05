@@ -229,6 +229,8 @@ The system confirms the settings by displaying “Plant growing!” on the OLED 
 ![Plant growing](https://github.com/Priorr4/Tropical-Plants/blob/main/Plant%20growing.png)
 
 Finally, the temperature and humidity values that were measured throughout the process are plotted on a graph.
+[ThingSpeak](https://github.com/Priorr4/Tropical-Plants/blob/main/ThingSpeak.PNG)
+
 
 Video of the project:
 
